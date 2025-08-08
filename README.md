@@ -13,9 +13,21 @@ I'm currently studying **Software Engineering** at the State University of Infor
 
 ## 🛠️ Skills
 * Languages: Python, Javascripts, Typescripts, C++, Golang(Go), HTML/CSS, SQL. 
+---
+* * Frameworks & Libraries: Django, Flask, FastAPI, TensorFlow, PyTorch, Keras, Scikit-learn, Pandas, NumPy, Requests, Selenium, Beautiful Soup. 
+* * Frameworks & Libraries (WEB): React, jQuery, NestJS, Express.js, SolidJS, Node.js, Tailwind CSS, Bootstrap.
 
-* Frameworks & Libraries: Django, Flask, FastAPI, TensorFlow, PyTorch, Keras, Scikit-learn, Pandas, NumPy, Requests, Selenium, Beautiful Soup.
+* [![Next][Next.js]][Next-url]
+* [![React][React.js]][React-url]
+* [![Vue][Vue.js]][Vue-url]
+* [![Angular][Angular.io]][Angular-url]
+* [![Svelte][Svelte.dev]][Svelte-url]
+* [![Laravel][Laravel.com]][Laravel-url]
+* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+* [![JQuery][JQuery.com]][JQuery-url]
 
-* Databases: MySQL, PostgreSQL, MongoDB
+---
+* Databases: MySQL, PostgreSQL, MongoDB.
 
-* Tools: Git, Jira, Bitbucket, Sourcetree, Postman.
+* Tools: Git, Jira, Bitbucket, Bamboo, Sourcetree, Postman, Kubernetes(k8s), Terraform/OpenTofu, Port, Qovery, Jenkins, GitLab/GitHub, GitLab CI/CD/GitHub Actions.
+
