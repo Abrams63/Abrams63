@@ -85,7 +85,7 @@ I'm currently studying **Software Engineering** at the State University of Infor
 <img src="https://github-readme-stats.vercel.app/api?username=Abrams63
 &show_icons=true&count_private=true&hide_border=true" align="left" />
 
-<br><br><br><br><br><br><br><br><br>
+<br>
 
 >  ## 🔗 Let's Connect
 > 💬 You can find me and reach out through any of the platforms below:
