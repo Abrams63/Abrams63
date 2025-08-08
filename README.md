@@ -36,6 +36,7 @@ I'm currently studying **Software Engineering** at the State University of Infor
 [![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B0082?style=for-the-badge&logo=python&logoColor=white)](https://www.crummy.com/software/BeautifulSoup/)
 
 ### 🌐 Web Frameworks & Libraries
+[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/)
 [![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
@@ -71,6 +72,7 @@ I'm currently studying **Software Engineering** at the State University of Infor
 
 - GitHub: [@Abrams63](https://github.com/Abrams63)  
 - LinkedIn: [Artem Abramov](https://www.linkedin.com/in/abrams63/)
+
 
 
 
