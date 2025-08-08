@@ -12,13 +12,6 @@ I'm a Developer focused on machine learning, data analysis, and AI integration. 
 
 <br>
 
-## 💡 About Me
-I’m a motivated and detail-oriented **Python Developer** with a solid foundation in **software engineering**, **databases (SQL/NoSQL)**. My experience spans version control with Git, RESTful APIs, and AI-based projects. I'm especially passionate about **machine learning** and **large language models**, and I love building useful tools through code.
-
-I'm currently studying **Software Engineering** at the State University of Information and Communication Technologies and actively looking for opportunities to grow in the tech industry.
-
-<br>
-
 ## 🛠️ Skills
 [![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -33,9 +26,9 @@ I'm currently studying **Software Engineering** at the State University of Infor
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)
+[![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)](https://keras.io/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
-[![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)](https://keras.io/)
 [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
@@ -75,12 +68,6 @@ I'm currently studying **Software Engineering** at the State University of Infor
 [![Bamboo](https://img.shields.io/badge/Bamboo-0052CC?style=for-the-badge&logo=bamboo&logoColor=white)](https://www.atlassian.com/software/bamboo)
 
 ---
-
-## 🔗 Let's Connect
-💬 You can find me and reach out through any of the platforms below:
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abrams63)   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abrams63/)   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leaderia5566@gmail.com)   [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Artem63003?t=z2eEpjD6Kg9cHgbc6BqwUQ&s=09)
-
 <br>
 
 <div align="center">
@@ -89,5 +76,19 @@ I'm currently studying **Software Engineering** at the State University of Infor
   </a>
 </div>
 
+## 💡 About Me
+I’m a motivated and detail-oriented **Python Developer** with a solid foundation in **software engineering**, **databases (SQL/NoSQL)**. My experience spans version control with Git, RESTful APIs, and AI-based projects. I'm especially passionate about **machine learning** and **large language models**, and I love building useful tools through code.
 
+I'm currently studying **Software Engineering** at the State University of Information and Communication Technologies and actively looking for opportunities to grow in the tech industry.
+<br>
+ 
+<img src="https://github-readme-stats.vercel.app/api?username=Abrams63
+&show_icons=true&count_private=true&hide_border=true" align="left" />
+
+<br><br><br><br><br><br><br><br><br>
+
+## 🔗 Let's Connect
+💬 You can find me and reach out through any of the platforms below:
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abrams63)   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abrams63/)   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leaderia5566@gmail.com)   [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Artem63003?t=z2eEpjD6Kg9cHgbc6BqwUQ&s=09)
 
