@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Artem Abramov
 
-I'm a Developer focused on machine learning, data analysis, and AI integration. I have a solid foundation in software engineering, working with databases (SQL/NoSQL), version control systems etc. I'm actively developing my skills in artificial intelligence and cybersecurity.
+I'm a Developer focused on machine learning, data analysis, and AI integration. I have a solid foundation in software engineering, working with databases (SQL/NoSQL), version control systems etc. I learn quickly, I like to solve complex problems and work in a team. I have analytical thinking, attention to detail and strive to develop in the field of software development, especially in the direction of system or application programming
 
 <br>
 
@@ -71,6 +71,7 @@ I'm currently studying **Software Engineering** at the State University of Infor
 
 - GitHub: [@Abrams63](https://github.com/Abrams63)  
 - LinkedIn: [Artem Abramov](https://www.linkedin.com/in/abrams63/)
+
 
 
 
