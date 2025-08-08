@@ -1,4 +1,12 @@
-# 👋 Hi there, I'm Artem Abramov
+<br />
+<div align="center">
+  <a href="https://github.com/Abrams63/Abrams63.git">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a>
+</div>
+<br />
+
+# 👋 Hi there, I'm Abrams
 
 I'm a Developer focused on machine learning, data analysis, and AI integration. I have a solid foundation in software engineering, working with databases (SQL/NoSQL), version control systems etc. I learn quickly, I like to solve complex problems and work in a team. I have analytical thinking, attention to detail and strive to develop in the field of software development, especially in the direction of system or application programming
 
@@ -69,9 +77,9 @@ I'm currently studying **Software Engineering** at the State University of Infor
 ---
 
 ## 🔗 Let's Connect
+💬 You can find me and reach out through any of the platforms below:
 
-- GitHub: [@Abrams63](https://github.com/Abrams63)  
-- LinkedIn: [Artem Abramov](https://www.linkedin.com/in/abrams63/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abrams63)   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abrams63/)   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leaderia5566@gmail.com)   [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Artem63003?t=z2eEpjD6Kg9cHgbc6BqwUQ&s=09)
 
 
 
