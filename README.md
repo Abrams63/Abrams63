@@ -70,9 +70,11 @@ I'm a Developer focused on machine learning, data analysis, and AI integration. 
 ---
 <br>
 
-<p align='center'>
-  <img align="left" src="./github_stats.svg">
-</p>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="./github_stats.svg" >
+  <img src="/images/source.gif" >
+</div>
+
 
 <br>
 
