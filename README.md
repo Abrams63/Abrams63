@@ -71,8 +71,8 @@ I'm a Developer focused on machine learning, data analysis, and AI integration. 
 <br>
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="./github_stats.svg" >
-  <img src="/images/source.gif" >
+  <img src="./github_stats.svg" width="45%">
+  <img src="/images/source.gif" width="45%">
 </div>
 
 
