@@ -70,9 +70,9 @@ I'm a Developer focused on machine learning, data analysis, and AI integration. 
 ---
 <br>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="./github_stats.svg" alt="GitHub Stats" style="max-width: 60%; height: auto;">
-  <div style="display: flex; flex-direction: column; align-items: flex-end; gap: 10px;">
+<div align="center">
+  <img src="./github_stats.svg" alt="GitHub Stats">
+  <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&random=true&width=435&lines=Are+you+ohueli+tam+sovsem%3F" alt="Typing SVG" />
   </a>
   </div>
