@@ -71,8 +71,21 @@ I'm a Developer focused on machine learning, data analysis, and AI integration. 
 <br>
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="./github_stats.svg" width="45%">
-  <img src="/images/source.gif" width="45%">
+  <!-- Левая часть — статистика -->
+  <img src="./github_stats.svg" alt="GitHub Stats" style="max-width: 60%; height: auto;">
+
+  <!-- Правая часть — вертикальный текст -->
+  <div style="display: flex; flex-direction: column; align-items: flex-end; gap: 10px;">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&random=true&width=200&lines=Are+you" alt="Typing SVG" />
+    </a>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&random=true&width=200&lines=ohueli+tam" alt="Typing SVG" />
+    </a>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&random=true&width=200&lines=sovsem%3F" alt="Typing SVG" />
+    </a>
+  </div>
 </div>
 
 
