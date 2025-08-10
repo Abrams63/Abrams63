@@ -74,16 +74,16 @@ I'm a Developer focused on machine learning, data analysis, and AI integration. 
   <img src="https://raw.githubusercontent.com/USERNAME/REPO/main/github_stats.svg" alt="GitHub Stats Terminal Style">
 </p>
 
+<p align='center'>
+  <img align="center" src="./github_stats.svg">
+</p>
 
-<div align="center">
-  <a href="https://github.com/Abrams63/Abrams63.git">
-    <img src="images/source.gif" alt="source gif" />
+<p align="center">
+  <a href="https://github.com/Abrams63/Abrams63/actions/workflows/main.yml">
+    <img src="https://github.com/Abrams63/Abrams63/actions/workflows/main.yml/badge.svg" alt="Update Github Stats" title="Terminal Style GitHub Stats">
   </a>
-</div>
+</p>
  
-<img src="https://github-readme-stats.vercel.app/api?username=Abrams63
-&show_icons=true&count_private=true&hide_border=true" align="left" />
-
 <br>
 
 >  ## 🔗 Let's Connect
