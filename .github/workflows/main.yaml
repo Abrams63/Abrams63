@@ -1,43 +1,57 @@
+# This is a basic workflow to help you get started with Actions
+
 name: Update Github Stats
 
+# Controls when the workflow will run
 on:
+  # Triggers the workflow on push or pull request events but only for the main branch
   schedule:
-    - cron: "5 4 * * *" # каждый день в 04:05 UTC
+    - cron: "5 0 * 8 *"
+
+  # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
+  # This workflow contains a single job called "build"
   build:
+    # The type of runner that the job will run on
     runs-on: ubuntu-latest
+    
     strategy:
       matrix:
         node-version: [14.x]
 
+    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v3
-
-      - name: Setup Node.js
+      - name: Use Node.js ${{ matrix.node-version }}
         uses: actions/setup-node@v3
-        with:
+        with: 
           node-version: ${{ matrix.node-version }}
           cache: 'npm'
 
-      - name: Install dependencies
-        run: npm install
-
-      - name: Git config
+      # Install requirements
+      - name: Install requirements
         run: |
-          git config --global user.name "GitHub Actions"
+          npm install
+          
+      - name: Github Configurations
+        run: |
+          git config --global user.name "Github Actions"
           git config --global user.email "action@github.com"
           git pull
-
-      - name: Generate Terminal Stats
+          
+      - name: Update Template
         run: |
-          node updater.js ${{ github.repository_owner }} dracula
+          node updater.js ${{ github.repository_owner }} atom
         env:
           GHT: ${{ secrets.GHT }}
-
-      - name: Commit and Push
+          
+      # Commiting
+      - name: commiting changed svg template
         run: |
           git add .
-          git commit -m "📊 Update terminal style GitHub stats"
+          git commit -m "Github Stats updated 🎉" || echo
           git push
