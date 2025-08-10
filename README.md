@@ -71,15 +71,9 @@ I'm a Developer focused on machine learning, data analysis, and AI integration. 
 <br>
 
 <p align='center'>
-  <img align="center" src="./github_stats.svg">
+  <img align="left" src="./github_stats.svg">
 </p>
 
-<p align="center">
-  <a href="https://github.com/Abrams63/Abrams63/actions/workflows/main.yml">
-    <img src="https://github.com/Abrams63/Abrams63/actions/workflows/main.yml/badge.svg" alt="Update Github Stats" title="Terminal Style GitHub Stats">
-  </a>
-</p>
- 
 <br>
 
 >  ## 🔗 Let's Connect
