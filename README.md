@@ -70,10 +70,6 @@ I'm a Developer focused on machine learning, data analysis, and AI integration. 
 ---
 <br>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/REPO/main/github_stats.svg" alt="GitHub Stats Terminal Style">
-</p>
-
 <p align='center'>
   <img align="center" src="./github_stats.svg">
 </p>
