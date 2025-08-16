@@ -1,46 +1,81 @@
-# This is a basic workflow to help you get started with Actions
-permissions:
-  contents: write
-
-name: Update Github Stats
+name: Breakout SVG & GitHub Stats
 
 on:
   schedule:
-    - cron: "47 2 * * *"
+    - cron: "0 */24 * * *"   # запуск для generate-svg
+    - cron: "47 2 * * *"     # запуск для update-stats
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
-  build:
+  generate-svg:
+    name: Generate Breakout SVGs
+    if: github.event.schedule == '0 */24 * * *' || github.event_name == 'workflow_dispatch'
     runs-on: ubuntu-latest
-    
+    timeout-minutes: 5
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate SVG
+        uses: cyprieng/github-breakout@v1.0.0
+        with:
+          github_username: ${{ github.repository_owner }}
+
+      - name: Move generated SVGs
+        run: |
+          mkdir -p images
+          mv output/light.svg images/breakout-light.svg
+          mv output/dark.svg images/breakout-dark.svg
+
+      - name: Configure git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit and push SVGs
+        run: |
+          git add images/breakout-light.svg images/breakout-dark.svg
+          git commit -m "chore: update breakout SVGs" || echo "No changes to commit"
+          git push
+
+  update-stats:
+    name: Update Github Stats
+    if: github.event.schedule == '47 2 * * *' || github.event_name == 'workflow_dispatch'
+    runs-on: ubuntu-latest
+
     strategy:
       matrix:
         node-version: [14.x]
 
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
       - name: Use Node.js ${{ matrix.node-version }}
         uses: actions/setup-node@v3
-        with: 
+        with:
           node-version: ${{ matrix.node-version }}
           cache: 'npm'
 
       - name: Install requirements
         run: npm install
-          
+
       - name: Github Configurations
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "action@github.com"
           git pull
-          
+
       - name: Update Template
         run: |
           node updater.js ${{ github.repository_owner }} atom
         env:
           GHT: ${{ secrets.GHT }}
-          
+
       - name: Commit and Push changes
         run: |
           git add .
