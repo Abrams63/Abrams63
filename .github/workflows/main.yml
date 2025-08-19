@@ -2,7 +2,7 @@ name: Breakout SVG & GitHub Stats
 
 on:
   schedule:
-    - cron: "0 */24 * * *"   # запуск для generate-svg
+    - cron: "0 */24 * * *"  # запуск для generate-svg"
     - cron: "47 2 * * *"     # запуск для update-stats
   workflow_dispatch:
 
