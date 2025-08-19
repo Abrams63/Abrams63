@@ -72,17 +72,7 @@ I'm a Developer focused on machine learning, data analysis, and AI integration. 
 
 <div align="center">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="images/breakout-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="images/breakout-light.svg"
-  />
-  <img alt="Breakout Game" src="images/breakout-light.svg" />
-</picture>
+![Breakout-style SVG](images/breakout-dark.svg)
 
 </div>
 
