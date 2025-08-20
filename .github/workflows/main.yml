@@ -82,3 +82,9 @@ jobs:
           git commit -m "Github Stats updated 🎉" || echo
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
           git push
+
+      - name: Remove node_modules from repo and push
+        run: |
+          git rm -r --cached node_modules || echo "node_modules not tracked"
+          git commit -m "chore: remove node_modules from repo" || echo "No node_modules to remove"
+          git push
