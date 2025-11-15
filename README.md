@@ -75,28 +75,28 @@ I'm a Developer focused on machine learning, data analysis, and AI integration. 
 ---
 <div align="center">
   <a href="https://g.dev/abrams63" target="_blank">
-    <img src="images/badge1.svg" height="40">
+    <img src="images/badge1.svg" height="50">
   </a>
   <a href="https://g.dev/abrams63" target="_blank">
-    <img src="images/badge2.svg" height="40">
+    <img src="images/badge2.svg" height="50">
   </a>
   <a href="https://g.dev/abrams63" target="_blank">
-    <img src="images/badge3.svg" height="40">
+    <img src="images/badge3.svg" height="50">
   </a>
   <a href="https://g.dev/abrams63" target="_blank">
-    <img src="images/badge4.svg" height="40">
+    <img src="images/badge4.svg" height="50">
   </a>
   <a href="https://g.dev/abrams63" target="_blank">
-    <img src="images/badge5.svg" height="40">
+    <img src="images/badge5.svg" height="50">
   </a>
   <a href="https://g.dev/abrams63" target="_blank">
-    <img src="images/badge6.svg" height="40">
+    <img src="images/badge6.svg" height="50">
   </a>
   <a href="https://g.dev/abrams63" target="_blank">
-    <img src="images/badge7.svg" height="40">
+    <img src="images/badge7.svg" height="50">
   </a>
   <a href="https://g.dev/abrams63" target="_blank">
-    <img src="images/badge8.svg" height="40">
+    <img src="images/badge8.svg" height="50">
   </a>
 </div>
 
