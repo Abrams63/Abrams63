@@ -98,6 +98,15 @@ I'm a Developer focused on machine learning, data analysis, and AI integration. 
   <a href="https://g.dev/abrams63" target="_blank">
     <img src="images/badge8.svg" height="50">
   </a>
+  <a href="https://g.dev/abrams63" target="_blank">
+    <img src="images/badge9.svg" height="50">
+  </a>
+  <a href="https://g.dev/abrams63" target="_blank">
+    <img src="images/badge10.svg" height="50">
+  </a>
+  <a href="https://g.dev/abrams63" target="_blank">
+    <img src="images/badge11.svg" height="50">
+  </a>
 </div>
 
 
