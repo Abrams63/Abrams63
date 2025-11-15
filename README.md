@@ -10,9 +10,8 @@
 
 I'm a Developer focused on machine learning, data analysis, and AI integration. I have a solid foundation in software engineering, working with databases (SQL/NoSQL), version control systems etc. I learn quickly, I like to solve complex problems and work in a team. I have analytical thinking, attention to detail and strive to develop in the field of software development, especially in the direction of system or application programming
 
-<br>
-
 ## 🛠️ Skills
+
   [![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
   [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
@@ -23,6 +22,7 @@ I'm a Developer focused on machine learning, data analysis, and AI integration. 
   [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
 
 ### 🧠 Frameworks & Libraries (Python / AI / Data)
+
   [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
   [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
   [![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)
@@ -37,6 +37,7 @@ I'm a Developer focused on machine learning, data analysis, and AI integration. 
   [![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B0082?style=for-the-badge&logo=python&logoColor=white)](https://www.crummy.com/software/BeautifulSoup/)
 
 ### 🌐 Web Frameworks & Libraries
+
   [![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
   [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
   [![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/)
@@ -46,13 +47,16 @@ I'm a Developer focused on machine learning, data analysis, and AI integration. 
   [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
   [![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
   [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-  ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+
+
 ### 🗄️ Databases
+
   [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
   [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
   [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
 ### ⚙️ Tools & DevOps
+
   [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
   [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/)
@@ -67,26 +71,50 @@ I'm a Developer focused on machine learning, data analysis, and AI integration. 
   [![Qovery](https://img.shields.io/badge/Qovery-4526E4?style=for-the-badge&logo=qovery&logoColor=white)](https://www.qovery.com/)
   [![Port](https://img.shields.io/badge/Port-000000?style=for-the-badge)](https://www.getport.io/)
   [![Bamboo](https://img.shields.io/badge/Bamboo-0052CC?style=for-the-badge&logo=bamboo&logoColor=white)](https://www.atlassian.com/software/bamboo)
+  ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ---
-<br>
+<div align="center">
+  <a href="https://g.dev/abrams63" target="_blank">
+    <img src="images/badge1.svg" height="40">
+  </a>
+  <a href="https://g.dev/abrams63" target="_blank">
+    <img src="images/badge2.svg" height="40">
+  </a>
+  <a href="https://g.dev/abrams63" target="_blank">
+    <img src="images/badge3.svg" height="40">
+  </a>
+  <a href="https://g.dev/abrams63" target="_blank">
+    <img src="images/badge4.svg" height="40">
+  </a>
+  <a href="https://g.dev/abrams63" target="_blank">
+    <img src="images/badge5.svg" height="40">
+  </a>
+  <a href="https://g.dev/abrams63" target="_blank">
+    <img src="images/badge6.svg" height="40">
+  </a>
+  <a href="https://g.dev/abrams63" target="_blank">
+    <img src="images/badge7.svg" height="40">
+  </a>
+  <a href="https://g.dev/abrams63" target="_blank">
+    <img src="images/badge8.svg" height="40">
+  </a>
+</div>
+
 
 <div align="center">
 
 ![Breakout-style SVG](images/breakout-dark.svg)
 
 <p align='center'>
-  <img align="center" src="./github_stats.svg">
+  <img align="center" src="./github_stats.svg"> 
 </p>
 
 </div>
 
 ---
 
->  ## 🔗 Let's Connect
+> ## 🔗 Let's Connect
+>
 > 💬 You can find me and reach out through any of the platforms below:
-> 
+>
 > [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abrams63)   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abrams63/)   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leaderia5566@gmail.com)   [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Artem63003?t=z2eEpjD6Kg9cHgbc6BqwUQ&s=09)
-
-
-
-
