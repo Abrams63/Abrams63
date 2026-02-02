@@ -70,7 +70,7 @@ I'm a Developer focused on machine learning, data analysis, and AI integration. 
   [![Qovery](https://img.shields.io/badge/Qovery-4526E4?style=for-the-badge&logo=qovery&logoColor=white)](https://www.qovery.com/)
   [![Port](https://img.shields.io/badge/Port-000000?style=for-the-badge)](https://www.getport.io/)
   [![Bamboo](https://img.shields.io/badge/Bamboo-0052CC?style=for-the-badge&logo=bamboo&logoColor=white)](https://www.atlassian.com/software/bamboo)
-  ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+  
 ---
 <div align="center">
   <a href="https://g.dev/abrams63" target="_blank">
@@ -127,3 +127,4 @@ I'm a Developer focused on machine learning, data analysis, and AI integration. 
 >
 
 > [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abrams63)   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abrams63/)   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leaderia5566@gmail.com)   [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Artem63003?t=z2eEpjD6Kg9cHgbc6BqwUQ&s=09)
+
