@@ -104,17 +104,6 @@ I'm a Developer focused on machine learning, data analysis, and AI integration. 
   </a>
 </div>
 
-
-<div align="center">
-
-![Breakout-style SVG](images/breakout-dark.svg)
-
-<p align='center'>
-  <img align="center" src="./github_stats.svg"> 
-</p>
-
-</div>
-
 ---
 
 > ## 🔗 Let's Connect
