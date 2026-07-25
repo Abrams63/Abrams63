@@ -50,10 +50,6 @@ I'm a Developer focused on machine learning, data analysis, and AI integration. 
   [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
   [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
   [![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)
-  [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io/)
-  [![Qovery](https://img.shields.io/badge/Qovery-4526E4?style=for-the-badge&logo=qovery&logoColor=white)](https://www.qovery.com/)
-  [![Port](https://img.shields.io/badge/Port-000000?style=for-the-badge)](https://www.getport.io/)
-  [![Bamboo](https://img.shields.io/badge/Bamboo-0052CC?style=for-the-badge&logo=bamboo&logoColor=white)](https://www.atlassian.com/software/bamboo)
   
 ---
 <div align="center">
