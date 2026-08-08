@@ -6,7 +6,7 @@
 </div>
 <br />
 
-# 👋 Ｈｉ　ｔｈｅｒｅ，　Ｉ＇ｍ　Ａｂｒａｍｓ
+#Ｈｉ　ｔｈｅｒｅ，　Ｉ＇ｍ　Ａｂｒａｍｓ
 
 I'm a Developer focused on machine learning, data analysis, and AI integration. I have a solid foundation in software engineering, working with databases (SQL/NoSQL), version control systems etc. I learn quickly, I like to solve complex problems and work in a team. I have analytical thinking, attention to detail and strive to develop in the field of software development, especially in the direction of system or application programming
 
